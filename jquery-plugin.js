@@ -19,7 +19,8 @@
 /********
  *
  *  This is yet another template for making jQuery plugins.  
- *  Plugins for this template are called as follows:
+ *  Plugins created using this template can be called/initialized
+ *  by using the following code:
  *
  *
  *  <script type="text/javascript" src="jquery-myplugin.js"></script>
